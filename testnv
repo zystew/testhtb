@@ -32,7 +32,7 @@
     </ul>
 <h2>Get Flag</h2>
     <ul>
-        <li>Flag: {{.FetchServerInfo "ls /"}}</li>
+        <li>Flag: {{.FetchServerInfo "cat flage226710be5.txt"}}</li>
     </ul>
 </body>
 </html>
